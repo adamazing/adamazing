@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi I'm Adam! 👋
 
-<!--
-**adamazing/adamazing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer from the UK, now living in NZ. I've worked in a variety of disparate fields with many different tools,
+languages, and frameworks. I care passionately about creating and fostering inclusive and accessible software and workplaces.
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://adamhenley.medium.com/">
+  <img align="left" alt="My content on Medium.com" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://linkedin.com/in/adam.henley">
+  <img align="left" alt="Adam's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://codepen.io/adamazing">
+  <img align="left" alt="Adam's Codepen" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+</a>
+<a href="https://twitter.com/adamofgreyskull">
+  <img align="left" alt="Adam's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website : [https://adamhenley.com](https://adamhenley.com) &nbsp;&nbsp;&nbsp;
