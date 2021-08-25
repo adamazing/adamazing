@@ -18,4 +18,4 @@ languages, and frameworks. I care passionately about creating and fostering incl
   <img align="left" alt="Adam's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [https://adamhenley.com](https://adamhenley.com) &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; Website : [https://adamhenley.com](https://adamhenley.com)
