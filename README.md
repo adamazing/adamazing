@@ -1,7 +1,6 @@
 ### Hi I'm Adam! 👋
 
-I'm a Senior Software Engineer from the UK, now living in NZ. I currently work at Flick Electric in Wellington, NZ. I've worked in a variety of disparate fields with many different tools,
-languages, and frameworks. I care passionately about creating and fostering inclusive and accessible software and workplaces.
+I'm a Senior Software Engineer from the UK, now living in NZ. I currently work at Flick Electric in Wellington, NZ. I've worked in a variety of disparate fields with many different tools, languages, and frameworks. I care passionately about creating and fostering inclusive and accessible software and workplaces.
 
 ----
 
