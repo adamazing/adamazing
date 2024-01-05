@@ -3,6 +3,7 @@
 I'm a Lead Developer at Flick Electric in Wellington, NZ. I've worked in a variety of disparate fields with many different tools, languages, and frameworks. I care passionately about creating and fostering inclusive and accessible software and workplaces.
 
 ----
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 <a href="https://adamhenley.medium.com/">
   <img align="left" alt="My content on Medium.com" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
