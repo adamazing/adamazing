@@ -1,6 +1,6 @@
 ### Hi I'm Adam! 👋
 
-I'm a Lead Developer at Flick Electric in Wellington, NZ. I've worked in a variety of disparate fields with many different tools, languages, and frameworks. I care passionately about creating and fostering inclusive and accessible software and workplaces.
+I'm a Senior/Lead Developer based in Nelson, New Zealand and I'm currently looking for remote work with a preference for positions based in NZ. Most recently I worked at Flick Electric using Ruby on Rails, AWS, and Terraform but I've worked in a variety of disparate fields with many different tools, languages, and frameworks. When I'm not on the clock I enjoy exploring other tools and frameworks, and playing Zachtronics games. I care passionately about creating and fostering inclusive and accessible software and workplaces and would love to work with others who feel the same.
 
 ----
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
@@ -18,4 +18,4 @@ I'm a Lead Developer at Flick Electric in Wellington, NZ. I've worked in a varie
   <img align="left" alt="Adam's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [https://adamhenley.com](https://adamhenley.com)
+| &nbsp;&nbsp;&nbsp; Obligatory Website : [https://adamhenley.com](https://adamhenley.com)
