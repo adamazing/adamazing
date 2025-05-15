@@ -1,10 +1,11 @@
 ### Hi I'm Adam! 👋
 
-I'm a Senior/Lead Developer based in Nelson, New Zealand and I'm currently looking for remote work with a preference for positions based in NZ. 
+I'm a Senior Developer with People Leading experience based in Nelson, New Zealand and I'm currently looking for remote work with a preference for positions based in NZ. 
 Most recently I worked at Flick Electric using Ruby on Rails, AWS, and Terraform but I've worked in a variety of disparate fields with many different tools, languages, and frameworks.  
 
-When I'm not on the clock I enjoy exploring other tools and frameworks, and playing Zachtronics games. 
-I care passionately about creating and fostering inclusive and accessible software and workplaces and would love to work with others who feel the same.
+When I'm not "on the clock" I enjoy exploring other tools and frameworks, and playing Zachtronics games. 
+I care passionately about creating fun and:w
+inclusive software and workplaces and would love to work with others who feel the same.
 
 ----
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
