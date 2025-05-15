@@ -14,7 +14,7 @@ This document is as much a work-in-progress as I am. If we work together and you
 
 ## About me
 
-- I was born and grew up in the UK, where I met my Kiwi wife, Amy.
+- I was born and grew up in the UK, where I met my Kiwi wife Amy from whom I am now seperated.
 - I have lived in New Zealand since 2009.
 - I have two children, Chloe (the eldest) and Oliver.
 - I enjoy television and movies spanning many genres and styles, but love Studio Ghibli movies and the works of David Lynch.
